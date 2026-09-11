@@ -12,7 +12,7 @@ The actual creation of this process journal was about a week ago, however, I hav
 
 ---
 
-![alt text "camera test"](https://github.com/tomk-142/ProcessJournal/blob/main/Images/CameraTest.jpg)
+![alt text "camera test"](images/CameraTest.jpg)
 
 ---
 
