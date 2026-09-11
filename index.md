@@ -12,7 +12,7 @@ The actual creation of this process journal was about a week ago, however, I hav
 
 ---
 
-![alt text "camera test"](images/CameraTest.jpg)
+![alt text "camera test"](Images/CameraTest.jpg)
 
 ---
 
