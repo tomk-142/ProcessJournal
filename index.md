@@ -1,7 +1,13 @@
 ### DES222 Task 2 and 3 Process Journal
 # This process journal will document the stages of ideation to creation for task 2/3's responsive tech design. The format and tone will resemble closer to a personal journal as opposed to a strict research journal, but will provide the necessary information and plans to recreate this project in the future if need be.
+
 ---
+# Links
+- [Code Used](CodeIndex.md)
+---
+
 ### Narcissus
+
 ---
 ## The Big Idea
 This project aims to respond visually to the users heart rate via a distortion effect applied to a live camera feed.
