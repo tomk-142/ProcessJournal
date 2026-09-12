@@ -6,5 +6,9 @@
 
 ---
 
-- [CameraTest](CameraTest.md)
+- [Camera Test](CameraTest.md)
+- [Heart Rate Monitor Test](HeartRateMonitorTest.md)
+- [Image to Bitmap Converter](BitMapConverter.md)
+- [Thermal Printer](ThermalPrinter.md)
 
+---

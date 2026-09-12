@@ -1,8 +1,8 @@
-### CameraTest
+### Camera Test
 
 ---
 
-## This is the code I used to test my ESP32 Camera
+## This is the code I used to test my ESP32 Camera, it is a premade example in the Arduino IDE that can be configured to my chosen ESP32 devboard. The devboard used was a ESP32-S3-CAM. Make sure PSRAM mode is set to OPI and flash mode is QIO, Flash Size 16MB. Partition Scheme: 16M Flash (3MB APP/9.9MB FATFS). Upload Speed: 921600
 
 ---
 

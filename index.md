@@ -4,6 +4,7 @@
 ---
 # Links
 - [Code Used](CodeIndex.md)
+-
 ---
 
 ### Narcissus
@@ -29,8 +30,12 @@ This entry is when I began creating my pitch presentation and started researchin
 
 ---
 
+![alt text "heart rate monitor test](Images/BPM.png)
+
+---
+
 ## Entry 3 10/09/26
-I started this session by finalising my slideshow for the presentation, no script was created for it as I was planning on freestyling with just a few notes. hopefully it didnt backfire. This will be the final entry before the Task 2 Pitch is presented and the next entry/ies will process the physical creation of the project. for now, I will create a list below of products that I purchased for this project, and other items that I already had that im expecting to use. not all products listed will be used and future entries will narrow down the exact products for the final project.
+I started this session by finalising my slideshow for the presentation, no script was created for it as I was planning on freestyling with just a few notes. hopefully it didnt backfire. This will be the final entry before the Task 2 Pitch is presented and the next entry/ies will process the physical creation of the project. for now, I will create a list below of products that I purchased for this project, and other items that I already had that im expecting to use. not all products listed will be used and future entries will narrow down the exact products for the final project. I havent tested my thermal printer for a while so I will need to make sure that still works how its meant to and try and configure some final code that prints images as simply as possible. I will add some photos of the printer in action below the list!
 
 - ESP32 S3 CAM Development Board + OV3660 Camera
 - 16mm Illuminated Green Momentary Push Button Switch – 4-Pin
@@ -48,3 +53,6 @@ I started this session by finalising my slideshow for the presentation, no scrip
 
 ---
 
+![Bitmap Image](Images/BitmapImage.png) ![Printer test](Images/CameraTest.jpg)
+
+---
