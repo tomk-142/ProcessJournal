@@ -53,6 +53,6 @@ I started this session by finalising my slideshow for the presentation, no scrip
 
 ---
 
-![Bitmap Image](Images/BitmapImage.png) ![Printer test](Images/CameraTest.jpg)
+![Bitmap Image](Images/BitmapImage.png) ![Printer test](Images/PrinterTest.jpg)
 
 ---
