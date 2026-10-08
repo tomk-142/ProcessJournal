@@ -40,3 +40,8 @@ I started this session by finalising my slideshow for the presentation, no scrip
 
 ---
 
+## Entry 4 26/09/26
+16 days since the last entry, and this is the first time I have worked on the narcissus project. recently I have used alot of touchdesigner for a different UNI assignemt and I have had the idea to create the distortion with that. first step though is getting the esp32 camera connecting to touchdesigner. It was alot simpler than I first thought! using a Video Stream In TOP I could use the same method that the CameraWebServer example used, and use my IP to directly stream video to the TOP. my next step was to get the heart rate monitor sending its data to touchdesigner. 
+
+---
+
