@@ -1,7 +1,14 @@
 ### DES222 Task 2 and 3 Process Journal
 # This process journal will document the stages of ideation to creation for task 2/3's responsive tech design. The format and tone will resemble closer to a personal journal as opposed to a strict research journal, but will provide the necessary information and plans to recreate this project in the future if need be.
+
 ---
+# Links
+- [Code Used](CodeIndex.md)
+-
+---
+
 ### Narcissus
+
 ---
 ## The Big Idea
 This project aims to respond visually to the users heart rate via a distortion effect applied to a live camera feed.
@@ -12,17 +19,23 @@ The actual creation of this process journal was about a week ago, however, I hav
 
 ---
 
-![alt text "camera test"](https://github.com/tomk-142/ProcessJournal/blob/main/Images/CameraTest.jpg)
+![alt text "camera test"](Images/CameraTest.jpg)
 
 ---
 
 ## Entry 2 08/09/26
-This entry is when I began creating my pitch presentation and started researching about similiar projects such as [Pulse Topology](https://design-milk.com/rafael-lozano-hemmer-takes-your-pulse/), [Pulse Room](https://www.lozano-hemmer.com/pulse_room.php) and [Reccurent Waiting](https://www.lozano-hemmer.com/recurrent_waiting.php). after reviewing these projects I changed the name of my project to what it is currently called (it was originally called pulse). All three of these projects are created by Rafael Lozano-Hemmer who I now realise is basically the godfather of interactive heart beat art displays. Rafael's work in the "Pulse" series sees lightbulbs either pulsing or flickering in some way to the participants heart rate. when the next participant adds their heart beat to the display, it pushes the previous pulse along until eventually, after enough new participants join, the pulse is gone, representing the inevitability of death in a gentle way. the "Reccurent Waiting" piece was more dramatic in its messaging. "Reccurent Waiting" is an interactive mirror installation that explores the tension between self-perception, loss of control, and digital puppetry. The mirror replicates the viewers image but the reflection blinks and moves erratically following a timed sequence that transmits Lucky's monologue from "Waiting for Godot" in morse code. I chose to mention this work of his as it closeley relates to a "distortion" of some sort on a live reflection of the viewer, something that I'm planning on achieving. the themes he is representing in that piece is also quite similiar to that of my own for my project. I Also tested the heart rate monitor on the esp32 using a [library](https://docs.arduino.cc/libraries/pulsesensor-playground/) that I downloaded that included more examples. at this stage my goal was to make sure both devices could receive and send data to my computer and they are successful in doing so at this stage.
+This entry is when I began creating my pitch presentation and started researching about similiar projects such as [Pulse Topology](https://design-milk.com/rafael-lozano-hemmer-takes-your-pulse/), [Pulse Room](https://www.lozano-hemmer.com/pulse_room.php) and [Reccurent Waiting](https://www.lozano-hemmer.com/recurrent_waiting.php). after reviewing these projects I changed the name of my project to what it is currently called (it was originally called pulse). All three of these projects are created by Rafael Lozano-Hemmer who I now realise is basically the godfather of interactive heart beat art displays. Rafael's work in the "Pulse" series sees lightbulbs either pulsing or flickering in some way to the participants heart rate. when the next participant adds their heart beat to the display, it pushes the previous pulse along until eventually, after enough new participants join, the pulse is gone, representing the inevitability of death in a gentle way. the "Reccurent Waiting" piece was more dramatic in its messaging. "Reccurent Waiting" is an interactive mirror installation that explores the tension between self-perception, loss of control, and digital puppetry. The mirror replicates the viewers image but the reflection blinks and moves erratically following a timed sequence that transmits Lucky's monologue from "Waiting for Godot" in morse code. I chose to mention this work of his as it closeley relates to a "distortion" of some sort on a live reflection of the viewer, something that I'm planning on achieving. the themes he is representing in that piece is also quite similiar to that of my own for my project.
+
+ I Also tested the heart rate monitor on the esp32 using a [library](https://docs.arduino.cc/libraries/pulsesensor-playground/) that I downloaded that included more examples. at this stage my goal was to make sure both devices could receive and send data to my computer and they are successful in doing so at this stage.
+
+---
+
+![alt text "heart rate monitor test](Images/BPM.png)
 
 ---
 
 ## Entry 3 10/09/26
-I started this session by finalising my slideshow for the presentation, no script was created for it as I was planning on freestyling with just a few notes. hopefully it didnt backfire. This will be the final entry before the Task 2 Pitch is presented and the next entry/ies will process the physical creation of the project. for now, I will create a list below of products that I purchased for this project, and other items that I already had that im expecting to use. not all products listed will be used and future entries will narrow down the exact products for the final project.
+I started this session by finalising my slideshow for the presentation, no script was created for it as I was planning on freestyling with just a few notes. hopefully it didnt backfire. This will be the final entry before the Task 2 Pitch is presented and the next entry/ies will process the physical creation of the project. for now, I will create a list below of products that I purchased for this project, and other items that I already had that im expecting to use. not all products listed will be used and future entries will narrow down the exact products for the final project. I havent tested my thermal printer for a while so I will need to make sure that still works how its meant to and try and configure some final code that prints images as simply as possible. I will add some photos of the printer in action below the list!
 
 - ESP32 S3 CAM Development Board + OV3660 Camera
 - 16mm Illuminated Green Momentary Push Button Switch – 4-Pin
