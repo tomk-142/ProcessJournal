@@ -6,6 +6,8 @@
 
 ---
 
+```
+C++ Code
     import serial
     import matplotlib.pyplot as plt
     import matplotlib.animation as animation
@@ -57,3 +59,4 @@
     ani = animation.FuncAnimation(fig, update, interval=30, cache_frame_data=False)
     plt.tight_layout()
     plt.show()
+```
