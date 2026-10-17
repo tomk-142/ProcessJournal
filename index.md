@@ -58,7 +58,7 @@ I started this session by finalising my slideshow for the presentation, no scrip
 
 ---
 
-![alt text "TD test"](https://github.com/tomk-142/ProcessJournal/blob/main/Images/TDworking.png)
+![TouchDesigner working setup](Images/TDworking.png)
 
 ---
 
