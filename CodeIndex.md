@@ -6,11 +6,11 @@
 
 ---
 
-- [Camera Test](CameraTest.md)
-- [Heart Rate Monitor Test](HeartRateMonitorTest.md)
-- [Image to Bitmap Converter](BitMapConverter.md)
-- [Thermal Printer](ThermalPrinter.md)
+- [Camera Test](CodeExamples/CameraTest.md)
+- [Heart Rate Monitor Test](CodeExamples/HeartRateMonitorTest.md)
+- [Image to Bitmap Converter](CodeExamples/BitMapConverter.md)
+- [Thermal Printer](CodeExamples/ThermalPrinter.md)
 
 ---
 
-- [Narcissus Code](NarcissusCode.md)
+- [Narcissus Code](CodeExamples/NarcissusCode.md)
