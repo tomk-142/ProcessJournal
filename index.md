@@ -66,3 +66,16 @@ I started this session by finalising my slideshow for the presentation, no scrip
 Another big jump from my last entry so I began by using Claude to tidy up/simplify my current code. at this stage all of the video distortion will be created in TouchDesigner, taking input from the HW-827. Speaking of, it looks like between now and the last time I worked on the project, I have fried or damaged the unit. I have two more on the way now from jaycar and I will be extra careful with these ones. on the bright side, the simplified code is working and I will add it to my process journal code page. I spent the rest of this session working on and learning how to power the whole unit.
 
 ---
+
+## Entry 6 09/10/2026
+Following yesterday, I began work on some sort of power supply. My plan was to use my lithium battery, TP4056 charger + protection, a LED rocker switch from jaycar, and the MT3608 step up module. I watched a few youtube videos and read a few reddit posts and couldnt really get a clear answer of how they all work together but I decided to give it an estimated guess with my knowledge learnt from DES221 and DES222. I created a diagram in Illustrator, which will be added below, and tested with a breadboard and multimeter. Thankfully it worked and I was able to draw the correct voltage from the battery, turn it on and off, and also increase or decrease the voltage using the step-up converter. To end this session, I spent the rest of the time soldering the components to a perfboard to try and make it closer to a "final" prototype. I was succesful after many hours of burning my fingers and inhaling solder fumes and I will add a picture of my completed board below. This was my first time soldering anything more than a few wires together so it may look a little dodgy, but I learned alot from the experience and thoroughly enjoyed it. in theory, this board should be able to power my camera and heart rate monitor at the same time. at this stage I havent researched how to integrate the printer, but that will come after all the prior components are working together and ironed out.
+
+---
+
+![wiring diagram](Images/WiringDiagram.png)
+![Perfboard wiring](Images/Wiring.jpg)
+![Perfboard test](Images/Testing.jpg)
+![Soldering setup](Images/Setup.jpg)
+
+---
+
