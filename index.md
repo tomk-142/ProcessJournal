@@ -63,4 +63,6 @@ I started this session by finalising my slideshow for the presentation, no scrip
 ---
 
 ## Entry 5 08/10/2026
-Another big jump from my last entry so I began by using Claude to tidy up/simplify my current code. at this stage all of the video distortion will be created in TouchDesigner, taking input from the HW-827. Speaking of, it looks like between now and the last time I worked on the project, I have fried or damaged the unit. I have two more on the way now from jaycar and I will be extra careful with these ones. on the bright side, the simplified code is working and I will add it to my process journal code page.
+Another big jump from my last entry so I began by using Claude to tidy up/simplify my current code. at this stage all of the video distortion will be created in TouchDesigner, taking input from the HW-827. Speaking of, it looks like between now and the last time I worked on the project, I have fried or damaged the unit. I have two more on the way now from jaycar and I will be extra careful with these ones. on the bright side, the simplified code is working and I will add it to my process journal code page. I spent the rest of this session working on and learning how to power the whole unit.
+
+---
