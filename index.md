@@ -72,10 +72,11 @@ Following yesterday, I began work on some sort of power supply. My plan was to u
 
 ---
 
-![wiring diagram](Images/WiringDiagram.png)
-![Perfboard wiring](Images/Wiring.jpg)
-![Perfboard test](Images/Testing.jpg)
-![Soldering setup](Images/Setup.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem;">
+  <img src="Images/WiringDiagram.png" alt="Wiring diagram" style="width: 100%; height: auto;">
+  <img src="Images/Wiring.jpg" alt="Perfboard wiring" style="width: 100%; height: auto;">
+  <img src="Images/Testing.jpg" alt="Perfboard test" style="width: 100%; height: auto;">
+  <img src="Images/Setup.jpg" alt="Soldering setup" style="width: 100%; height: auto;">
+</div>
 
 ---
-
