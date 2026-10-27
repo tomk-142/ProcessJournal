@@ -80,3 +80,6 @@ Following yesterday, I began work on some sort of power supply. My plan was to u
 </div>
 
 ---
+
+## Entry 7 26/10/2026
+Since the last entry I have been working on the project however I couldnt find time to update my process journal so I will recap what I did and at what stage I am now. firstly, I felt  that I was at a stage where I could work on the housing for the project, I decided to use corflute and create some sort of box and cut out holes for the camera and button etc. I quickly learned corflute was harder to work with than it appears and scrapped that idea entirely and have since switched to a premade jiffy box from jaycar. before adding the components to the housing, I wanted to refresh and update the design and attempt to do a better job, realistically I wanted it to be as simple as possible so I could just plug and play the entire device. I recreated my first little board and added headers for a new shutter button, and the PulseSensor, and am happy with my completed board. I added a capacitor to the 5v0 and GND of the esp32 to reduce stuttering in the camera feed that I thought was from the power supply, but have now realised it is actually from the wifi signal. I am finally at a stage where I am happy to house the entire project and thats what I will work on today. 
