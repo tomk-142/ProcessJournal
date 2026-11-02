@@ -18,7 +18,7 @@
 ---
 
 - [Narcissus Code](CodeExamples/NarcissusCode.md)
-- [Python Code for Bitmap Conversion](CodeExamples/FinalBitmapCode)
+- [Python Code for Bitmap Conversion](CodeExamples/FinalBitmapCode.md)
 - [Thermal Printer Code](CodeExamples/FinalPrinterCode.md)
 
 ---

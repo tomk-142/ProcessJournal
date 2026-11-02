@@ -2,7 +2,7 @@
 
 ---
 
-## This is currently the final code for the Thermal Printer
+## This is the final code for the Thermal Printer
 
 ---
 
