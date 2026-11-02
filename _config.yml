@@ -2,4 +2,4 @@ theme: minima
 title: Narcissus
 
 minima:
-  skin: dark
+  skin: classic
