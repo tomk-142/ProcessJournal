@@ -3,8 +3,10 @@
 
 ---
 # Links
-- [Code Used](CodeIndex.md)
-- [Project Runthrough](ProjectRunthrough.md)
+<ul>
+  <li><a href="CodeIndex.html">Code Used</a></li>
+  <li><a href="ProjectRunthrough.html">Project Runthrough</a></li>
+</ul>
 ---
 
 ### Narcissus
