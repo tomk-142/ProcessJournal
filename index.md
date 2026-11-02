@@ -4,7 +4,7 @@
 ---
 # Links
 - [Code Used](CodeIndex.md)
--
+- [Project Runthrough](ProjectRunthrough.md)
 ---
 
 ### Narcissus
@@ -82,4 +82,31 @@ Following yesterday, I began work on some sort of power supply. My plan was to u
 ---
 
 ## Entry 7 26/10/2026
-Since the last entry I have been working on the project however I couldnt find time to update my process journal so I will recap what I did and at what stage I am now. firstly, I felt  that I was at a stage where I could work on the housing for the project, I decided to use corflute and create some sort of box and cut out holes for the camera and button etc. I quickly learned corflute was harder to work with than it appears and scrapped that idea entirely and have since switched to a premade jiffy box from jaycar. before adding the components to the housing, I wanted to refresh and update the design and attempt to do a better job, realistically I wanted it to be as simple as possible so I could just plug and play the entire device. I recreated my first little board and added headers for a new shutter button, and the PulseSensor, and am happy with my completed board. I added a capacitor to the 5v0 and GND of the esp32 to reduce stuttering in the camera feed that I thought was from the power supply, but have now realised it is actually from the wifi signal. I am finally at a stage where I am happy to house the entire project and thats what I will work on today. 
+Since the last entry I have been working on the project however I couldnt find time to update my process journal so I will recap what I did and at what stage I am now. firstly, I felt  that I was at a stage where I could work on the housing for the project, I decided to use corflute and create some sort of box and cut out holes for the camera and button etc. I quickly learned corflute was harder to work with than it appears and scrapped that idea entirely and have since switched to a premade jiffy box from jaycar. before adding the components to the housing, I wanted to refresh and update the perfboard design and attempt to do a better job, realistically I wanted it to be as simple as possible so I could just plug and play the entire device. I recreated my first little board and added headers for a new shutter button, and the PulseSensor, and am happy with my completed board.  I am finally at a stage where I am happy to house the entire project and thats what I will work on today. I ended up completing the housing, so i'll add a picture below, I also spent a few hours in TouchDesigner creating my distortion effect, and I also made the overall "aesthetic" of the project window to sort of match the project vibe. A screenshot of my TD network will also be below
+
+---
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem;">
+  <img src="Images/HousingBox.jpg" alt="Housing" style="width: 100%; height: auto;">
+  <img src="Images/Internals.jpg" alt="Internals" style="width: 100%; height: auto;">
+  <img src="Images/InternalFace.jpg" alt="Internals Face" style="width: 100%; height: auto;">
+  <img src="Images/TDNetwork.png" alt="TDNetwork" style="width: 100%; height: auto;">
+
+---
+
+## 8 2/11/2026
+I've been flatout since the last entry but I will be able to complete the project today. I left off last time with the completed, housed unit. All coding and TD work was 95% finished so today was all about the polish and attempting to get the printer involved. Luckily, it was actually a very simple process. I used a similiar approach to my last printer project and used a python script to convert the image to a bitmap and print when the image was detected in a specific folder. I didn't mention in the last entry but I implemented a LED button that sent an OSC signal to my TD network, this was my shutter button that triggered the script. The printer draws too much current so together with an Arduino UNO R3, they became a seperate unit from the ESP32 Camera. I recycled a USB-C laptop charger with a PD trigger module from jaycar to send 9V to the printer, while the Arduino was powered via USB from my computer, as it needed to receive the bitmap image data anyways to send to the printer via the serial input. I prettied the entire project up by adding a industrial looking stand made from some metal pipe from bunnings to the camera, and added an on/off switch to the printer. I was finally finished with my project and from here I created my project video and worked on my process journal. Photos of the completed project and printer tests will be below. As this was a "artistic?" themed take on the task, my documentation video represents that. Grainy, imperfect visuals with distorted transitions and some grungy music. I was happy with the completed video however I do acknowledge it may steer a little bit away from the given rubric.
+
+---
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem;">
+  <img src="Images/FinishedHousing.jpg" alt="Housing with Stand" style="width: 100%; height: auto;">
+  <img src="Images/PrinterFinished.jpg" alt="Finished Printer" style="width: 100%; height: auto;">
+  <img src="Images/PrinterTest2.jpg" alt="Internals" style="width: 100%; height: auto;">
+
+---
+
+## Conclusion
+Overall I had a great time working on this project and the overall course. I would class the Narcissus Project as a success with the finished product being pretty close to what I had in mind at the beggining. I greatly improved my skill in prototyping and I spend alot of hours in TD. However, my reliance on AI assistance in some aspects was dissapointing, especially where code was a large factor. I did definitely increase my knowledge of python and cpp but moving forward, I would like to try my best to write my own code and solve problems more independently.
+
+---
