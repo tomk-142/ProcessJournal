@@ -91,6 +91,7 @@ Since the last entry I have been working on the project however I couldnt find t
   <img src="Images/Internals.jpg" alt="Internals" style="width: 100%; height: auto;">
   <img src="Images/InternalFace.jpg" alt="Internals Face" style="width: 100%; height: auto;">
   <img src="Images/TDNetwork.png" alt="TDNetwork" style="width: 100%; height: auto;">
+</div>
 
 ---
 
@@ -103,6 +104,7 @@ I've been flatout since the last entry but I will be able to complete the projec
   <img src="Images/FinishedHousing.jpg" alt="Housing with Stand" style="width: 100%; height: auto;">
   <img src="Images/PrinterFinished.jpg" alt="Finished Printer" style="width: 100%; height: auto;">
   <img src="Images/PrinterTest2.jpg" alt="Internals" style="width: 100%; height: auto;">
+</div>
 
 ---
 
